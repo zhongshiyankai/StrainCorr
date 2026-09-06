@@ -8,3 +8,4 @@ self-developed StrainCorr native C++ kernel exposed to the PySide6 application
 through a Python adapter.
 
 website:http://www.siruidi.com
+Email:straincorr@126.com
