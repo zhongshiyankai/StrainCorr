@@ -6,3 +6,5 @@ management, AOI definition, displacement/strain computation, visualization,
 reporting, and the local StrainClaw assistant. The production solver is the
 self-developed StrainCorr native C++ kernel exposed to the PySide6 application
 through a Python adapter.
+
+website:http://www.siruidi.com
